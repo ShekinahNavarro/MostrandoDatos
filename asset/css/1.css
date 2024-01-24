@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+.container {
+    margin: 100px;
+    border: 2px solid;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+img {
+    height: 177px;
+    border: 2px ;
+    
+}
+.tarjetas {
+    width: 320px;
+    border: 1px ;
+    text-align: center;
+    
+}
+.tarjetas2{
+    margin-top: 25px;
+    width: 320px;
+    border: 2px ;
+    text-align: center;
+}
+.info {
+    border: 3px solid;
+    background-color: white;
+    padding: 10px;
+}

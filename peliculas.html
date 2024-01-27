@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harry Potter Movies</title>
+    <link rel="stylesheet" href="asset/css/peliculas.css">
+</head>
+<body>
+    <header>
+        <div class="btn">
+            <div class="btn__indicator">
+              <div class="btn__icon-container">
+                <i class="btn__icon fa-solid"></i>
+              </div>
+            </div>
+          </div>
+        <h1>PELÍCULAS DE  HARRY POTTER</h1>
+    </header>
+    <div class="movies-container" id="moviesContainer">
+        <!-- Películas se cargarán aquí -->
+    </div>
+
+    <div class="modal" id="movieModal">
+        <div class="modal-content" id="modalContent">
+            <!-- Información de la película se mostrará aquí -->
+            <span class="close" id="closeModal">&times;</span>
+            <h2 id="movieTitle"></h2>
+            <p><strong>Título Original:</strong> <span id="originalTitle"></span></p>
+            <p><strong>Fecha de Lanzamiento:</strong> <span id="releaseDate"></span></p>
+            <p><strong>Autora:</strong> <span id="author"></span></p>
+            <p><strong>Director:</strong> <span id="director"></span></p>
+            <p><strong>Producción:</strong> <span id="production"></span></p>
+            <p><strong>Descripción:</strong> <span id="description"></span></p>
+        </div>
+    </div>
+
+    <script src="asset/js/peliculas.js"></script>
+</body>
+</html>

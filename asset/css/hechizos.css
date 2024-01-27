@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    cursor: url(img/varita-removebg-preview.png), auto;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/070/865/non_2x/magic-night-dark-blue-sky-background-with-golden-glitter-sparkles-vector.jpg);
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.tarjetas {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+

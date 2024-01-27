@@ -4,48 +4,67 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pagina - H.P</title>
-    <link rel="stylesheet" href="asset/css/style.css">
+    <link rel="stylesheet" href="asset/css/styles.css">
 </head>
 <body>
-    <header>
-        <div class="logo">
-            <img src="https://i.pinimg.com/564x/0c/3e/14/0c3e1437061d6aecf36df7441468d150.jpg" alt="escoHP">
-            <h1 class="titulo"> HARRY POTTER</h1>
-            <nav>
-                <ul class="principales">
-                    <li><a href="#">INFO.</a></li>
-                    <li><a href="#">PERSONAJES</a></li>
-                    <li><a href="#">CASAS</a></li>
-                    <li><a href="#">HECHIZOS</a></li>
-                </ul>
-            </nav>
-        </d>
+    <header class="header">
+        <div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu">➖</label>
+            </div>
+            <div class="menu container">
+                <h1 class="logo">
+                    <img src="img/HP.png.png" alt="Logo de Harry Potter">
+                </h1>
+            </div>
+        </div>
+        <input type="checkbox" id="btn-menu">
+        <div class="container-menu">
+            <div class="cont-menu">
+                <nav>
+                    <a href="#">INFORMACIÓN</a></li>
+                    <a href="personajes.html">PERSONAJES</a></li>
+                    <a href="casas.html">CASAS</a></li>
+                    <a href="hechizos.html">HECHIZOS</a></li>
+                    <a href="libros.html">LIBROS</a></li>
+                    <a href="peliculas.html">PELÍCULAS</a></li>
+                </nav>
+                <label for="btn-menu">✖️</label>
+            </div>
+        </div>
     </header>
     <section class="general container">
-            <h2>CASAS</h2>
-            <div>
-                <div class="casa1">
-                    <a href="1.html">
-                        <img src="https://i.pinimg.com/564x/50/6f/85/506f85eec56be84e63590cd1d884ad8d.jpg"/>
-                    </a>
-                </div>
-                <div class="casa2">
-                    <a href="2.html">
-                        <img src="https://i.pinimg.com/564x/3e/8c/97/3e8c97b874124646aaa0ccb368b48558.jpg"/>
-                    </a>
-                </div>
-                <div class="casa3">
-                    <a href="3.html">
-                        <img src="https://i.pinimg.com/564x/c7/59/cf/c759cf4fde2260076424974be157ea7b.jpg"/>
-                    </a>
-                </div>
-                <div class="casa4">
-                    <a href="4.html">
-                        <img src="https://i.pinimg.com/564x/d8/e7/52/d8e752f2dd19008a968c96011e5ddf36.jpg"/>
-                    </a>
-                </div>
+        <h2>CASAS</h2>
+        <div>
+            <div class="casa1">
+                <a href="1.html">
+                    <img src="img/Slytherin_Pottermore.webp" alt="Slytherin"/>
+                </a>
             </div>
+            <div class="casa2">
+                <a href="2.html">
+                    <img src="img/Gryffindor_Pottermore.webp" alt="Gryffindor"/>
+                </a>
+            </div>
+            <div class="casa3">
+                <a href="3.html">
+                    <img src="img/Ravenclaw_Pottermore.webp" alt="Ravenclaw"/>
+                </a>
+            </div>
+            <div class="casa4">
+                <a href="4.html">
+                    <img src="img/Hufflepuff_Pottermore.webp" alt="Hufflepuff"/>
+                </a>
+            </div>
+        </div>
     </section>
+    <div class="btn">
+        <div class="btn__indicator">
+          <div class="btn__icon-container">
+            <i class="btn__icon fa-solid"></i>
+          </div>
+        </div>
+      </div>
+    <script src="asset/js/inicio.js"></script>
 </body>
 </html>
-

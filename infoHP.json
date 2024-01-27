@@ -17,7 +17,7 @@
         },
         {
             "id": 4,
-            "hechizo": "Wingardium Leviosa/Locomotor",
+            "hechizo": "Wingardium Leviosa",
             "uso": "Levita objetos"
         },
         {
@@ -178,7 +178,7 @@
         {
             "id": 36,
             "hechizo": "Avada Kedavra",
-            "uso": "La maldición asesina"
+            "uso": "La maldición asesina,provoca la muerte instantánea de quien la recibe"
         },
         {
             "id": 37,
@@ -288,7 +288,7 @@
         {
             "id": 58,
             "hechizo": "Deprimo",
-            "uso": "Crea una gran presión hacia abajo"
+            "uso": "Encantamiento que abre agujeros en el suelo"
         },
         {
             "id": 59,
@@ -359,6 +359,21 @@
             "id": 72,
             "hechizo": "Crucio",
             "uso": "Causa un dolor inmenso"
+        },
+        {
+            "id": 73,
+            "hechizo": "Brackium Emendo",
+            "uso": "Destinado a curar huesos rotos"
+        },
+        {
+            "id": 74,
+            "hechizo": "Slugulus Eructo",
+            "uso": "Encantamiento que obliga a la víctima a vomitar babosas"
+        },
+        {
+            "id": 75,
+            "hechizo": "Furnunculus",
+            "uso": "El mal de ojo de espinillas,encantamiento oscuro que causa que a una persona le salgan grandes espinillas"
         }
     ],
     "info": [{
@@ -909,7 +924,8 @@
             "titulo_original": "Harry Potter and the Sorcerer's Stone",
             "fecha_de_lanzamiento": "26 de junio de 1997",
             "autora": "J. K. Rowling",
-            "descripcion": "El día de su cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que ha heredado poderes mágicos. Debe asistir a una famosa escuela de magia y hechicería, donde entabla una amistad con dos jóvenes que se convertirán en sus compañeros de aventura. Durante su primer año en Hogwarts, descubre que un malévolo y poderoso mago llamado Voldemort está en busca de una piedra filosofal que alarga la vida de quien la posee."
+            "descripcion": "El día de su cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que ha heredado poderes mágicos. Debe asistir a una famosa escuela de magia y hechicería, donde entabla una amistad con dos jóvenes que se convertirán en sus compañeros de aventura. Durante su primer año en Hogwarts, descubre que un malévolo y poderoso mago llamado Voldemort está en busca de una piedra filosofal que alarga la vida de quien la posee.",
+            "imagen": "https://i.pinimg.com/564x/8f/ce/d1/8fced147276216511e425473e777ecc3.jpg"
         },
         {
             "id": 2,
@@ -917,7 +933,8 @@
             "titulo_original": "Harry Potter and the chamber of secrets",
             "fecha_de_lanzamiento": "2 de julio de 1998",
             "autora": "J. K. Rowling",
-            "descripcion": "Harry Potter y los estudiantes de segundo año investigan una malévola amenaza para sus compañeros de clases de Hogwarts, una amenazante bestia que se esconde dentro del castillo."
+            "descripcion": "Harry Potter y los estudiantes de segundo año investigan una malévola amenaza para sus compañeros de clases de Hogwarts, una amenazante bestia que se esconde dentro del castillo.",
+            "imagen": "https://i.pinimg.com/736x/44/1b/ac/441bac761b248d06b207e5ac68622621.jpg"
         },
         {
             "id": 3,
@@ -925,7 +942,8 @@
             "titulo_original": "Harry Potter and the Prisoner of Azkaban",
             "fecha_de_lanzamiento": "8 de julio de 1999",
             "autora": "J. K. Rowling",
-            "descripcion": "El tercer año de estudios de Harry en Hogwarts se ve amenazado por la fuga de Sirius Black de la prisión de Azkaban. Al parecer, se trata de un peligroso mago que fue cómplice de Lord Voldemort y que intentará vengarse de Harry Potter."
+            "descripcion": "El tercer año de estudios de Harry en Hogwarts se ve amenazado por la fuga de Sirius Black de la prisión de Azkaban. Al parecer, se trata de un peligroso mago que fue cómplice de Lord Voldemort y que intentará vengarse de Harry Potter.",
+            "imagen": "https://i.pinimg.com/564x/fe/ab/df/feabdf0dc61e58571ec10cb26034d21d.jpg"
         },
         {
             "id": 4,
@@ -933,7 +951,8 @@
             "titulo_original": "Harry Potter and the Goblet of Fire",
             "fecha_de_lanzamiento": "8 de julio de 2000",
             "autora": "J. K. Rowling",
-            "descripcion": "Hogwarts se prepara para el Torneo de los Tres Magos, en el que competirán tres escuelas de hechicería. Para sorpresa de todos, Harry Potter es elegido para participar en la competencia, en la que deberá luchar contra dragones, internarse en el agua y enfrentarse a sus mayores miedos."
+            "descripcion": "Hogwarts se prepara para el Torneo de los Tres Magos, en el que competirán tres escuelas de hechicería. Para sorpresa de todos, Harry Potter es elegido para participar en la competencia, en la que deberá luchar contra dragones, internarse en el agua y enfrentarse a sus mayores miedos.",
+            "imagen": "https://i.pinimg.com/564x/05/52/62/0552626d46609f4d4d1271cac78deae4.jpg"
         },
         {
             "id": 5,
@@ -941,7 +960,8 @@
             "titulo_original": "Harry Potter and the Order of the Phoenix",
             "fecha_de_lanzamiento": "21 de junio de 2003",
             "autora": "J. K. Rowling",
-            "descripcion": "En su quinto año en Hogwarts, Harry descubre que muchos integrantes de la comunidad de magos no conocen la verdad acerca de su encuentro con Lord Voldemort. Cornelius Fudge, ministro de magia, designa a Dolores Umbridge como maestra de defensa contra de las artes oscuras porque cree que el profesor Dumbledore planea apoderarse de su trabajo. Pero sus enseñanzas son inadecuadas, por lo que Harry prepara a los estudiantes para defender la escuela en contra del mal."
+            "descripcion": "En su quinto año en Hogwarts, Harry descubre que muchos integrantes de la comunidad de magos no conocen la verdad acerca de su encuentro con Lord Voldemort. Cornelius Fudge, ministro de magia, designa a Dolores Umbridge como maestra de defensa contra de las artes oscuras porque cree que el profesor Dumbledore planea apoderarse de su trabajo. Pero sus enseñanzas son inadecuadas, por lo que Harry prepara a los estudiantes para defender la escuela en contra del mal.",
+            "imagen": "https://i.pinimg.com/564x/75/ac/4a/75ac4a61f059e8cbe36d56b76be599d6.jpg"
         },
         {
             "id": 6,
@@ -949,7 +969,8 @@
             "titulo_original": "Harry Potter and the Half-Blood Prince",
             "fecha_de_lanzamiento": "16 de julio de 2005",
             "autora": "J. K. Rowling",
-            "descripcion": "Harry descubre un poderoso libro y, mientras trata de descubrir sus orígenes, colabora con Dumbledore en la búsqueda de una serie de objetos mágicos que ayudarán en la destrucción de Lord Voldemort."
+            "descripcion": "Harry descubre un poderoso libro y, mientras trata de descubrir sus orígenes, colabora con Dumbledore en la búsqueda de una serie de objetos mágicos que ayudarán en la destrucción de Lord Voldemort.",
+            "imagen": "https://m.media-amazon.com/images/I/511dRq822gL.jpg"
         },
         {
             "id": 7,
@@ -957,7 +978,8 @@
             "titulo_original": "Harry Potter and the Deathly Hallows",
             "fecha_de_lanzamiento": "21 de julio de 2007",
             "autora": "J. K. Rowling",
-            "descripcion": "Harry, Ron y Hermione se van a una peligrosa misión para localizar y destruir el secreto de la inmortalidad y destrucción de Voldemort - los Horrocruces. Solos, sin la guía de sus profesores o la protección del Profesor Dumbledore, los tres amigos deben apoyarse el uno en el otro más que nunca. Pero hay Fuerzas Oscuras en medio que amenazan con separarlos. Harry Potter se está acercando cada vez más a la tarea para la que se ha preparado desde el primer día que pisó Hogwarts: la última batalla con Voldemort."
+            "descripcion": "Harry, Ron y Hermione se van a una peligrosa misión para localizar y destruir el secreto de la inmortalidad y destrucción de Voldemort - los Horrocruces. Solos, sin la guía de sus profesores o la protección del Profesor Dumbledore, los tres amigos deben apoyarse el uno en el otro más que nunca. Pero hay Fuerzas Oss en medio que amenazan con separarlos. Harry Potter se está acercando cada vez más a la tarea para la que se ha preparado desde el primer día que pisó Hogwarts: la última batalla con Voldemort.",
+            "imagen": "https://covers.odilo.io/public/OdiloPlace_Pottermore/9781781102701_ORIGINAL.jpg"
         },
         {
             "id": 8,
@@ -965,7 +987,8 @@
             "titulo_original": "Harry Potter and the Cursed Child",
             "fecha_de_lanzamiento": "30 de julio de 2016",
             "autora": "J. K. Rowling",
-            "descripcion": "El segundo hijo de Harry entró a Hogwarts, pero en Slytherin. Su relación con Harry cada vez es peor y se hizo muy amigo del hijo de Draco, Scorpius Malfoy que se dice que es el hijo de Lord Voldemort"
+            "descripcion": "El segundo hijo de Harry entró a Hogwarts, pero en Slytherin. Su relación con Harry cada vez es peor y se hizo muy amigo del hijo de Draco, Scorpius Malfoy que se dice que es el hijo de Lord Voldemort",
+            "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/6d/78/6d78304ba8241f61bf757d2ed9c82d92.jpg"
         }
         
     ]

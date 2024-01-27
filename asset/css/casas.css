@@ -4,6 +4,18 @@
     box-sizing: border-box;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: url(https://cdn.superaficionados.com/imagenes/hogwarts-1.jpg);
+}
+p{
+    font-weight: bold;
+}
+
 h1 {
     text-align: center;
 }
@@ -13,37 +25,51 @@ header {
     height: 150px;
 }
 
-.fila {
+.contenedorA {
     display: flex;
-    justify-content: space-around;
-    margin-bottom: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .primero,
 .segundo,
 .tercero,
 .cuarto {
-    border: 3px solid;
-    height: 300px;
-    width: 300px;
-    background-size: 330px 300px;
-    display: inline-block;
+    border: 2px solid;
+    height: 700px;
+    width: 400px;
+    background-size: 400px 400px;
+    margin: 10px;
     text-align: center;
+    padding-top: 50px;
+}
+
+.primero h2,
+.segundo h2,
+.tercero h2,
+.cuarto h2 {
+    margin-top: 10px;
+}
+
+.primero,
+.tercero,
+.cuarto{
+    height: 400px;
+    width: 400px;
 }
 
 .primero {
-    background-image: url(https://i.pinimg.com/564x/7a/b5/0d/7ab50d69139c575b36233ef55716304c.jpg);
+    background-image: url(https://i.pinimg.com/564x/f8/2e/c7/f82ec72ebc2453d7e56fc1a3fa628a91.jpg);
 }
 
 .segundo {
-    background-image: url(https://i.pinimg.com/564x/6b/8f/c7/6b8fc74ac23c875280353dac328b08ca.jpg);
+    background-image: url(https://i.pinimg.com/564x/d3/a4/14/d3a414711da97013471b9b06060cf39f.jpg);
 }
 
 .tercero {
-    background-image: url(https://i.pinimg.com/564x/2e/af/c4/2eafc4a8b419228b328e6348a1642399.jpg);
+    background-image: url(https://i.pinimg.com/564x/83/1a/0b/831a0b355b0bb9f3d44d73b1618d586e.jpg);
 }
 
 .cuarto {
-    background-image: url(https://i.pinimg.com/564x/67/39/e1/6739e169bbd77fc25fe3905ada0a6249.jpg);
+    background-image: url(https://i.pinimg.com/564x/1e/5e/39/1e5e39648cab7289b8e3eacb4ab889fe.jpg);
 }
-

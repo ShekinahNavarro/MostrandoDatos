@@ -330,7 +330,7 @@ const personajesCompletos = [
             "interpretado_por": " Natalia Tena",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen":"https://i.pinimg.com/736x/1b/a8/cf/1ba8cf13f0f614c142893cfa4e35d686.jpg"
         },
         {
             "id": 25,
@@ -352,7 +352,7 @@ const personajesCompletos = [
             "interpretado_por": "Robert Pattinson",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://pm1.aminoapps.com/6161/0a7be6be3ed7aa0ed637c1e717cbf251e12ac395_hq.jpg"
         },
         {
             "id": 28,
@@ -363,7 +363,7 @@ const personajesCompletos = [
             "interpretado_por": "Eleanor Patricia Columbus",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/7/7f/SusanBones.png/revision/latest?cb=20150824184232"
         },
         {
             "id": 29,
@@ -374,7 +374,7 @@ const personajesCompletos = [
             "interpretado_por": "Isabella Laughtland",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/f/fe/P7_Leanne.jpg/revision/latest?cb=20140506010848"
         },
         {
             "id": 30,
@@ -385,7 +385,7 @@ const personajesCompletos = [
             "interpretado_por": "Louis Doyle",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://static.wikia.nocookie.net/harryalbuspotter/images/7/73/Macmillan_Ernie.jpg/revision/latest/scale-to-width-down/250?cb=20190110182910"
         },
         {
             "id":31 ,
@@ -396,7 +396,7 @@ const personajesCompletos = [
             "interpretado_por": "Edward Randell",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://static.wikia.nocookie.net/harrypotter/images/1/16/Justin_Finch-Fletchley_%28McGonagall%27s_Class%29_%281%29.png/revision/latest?cb=20180308172742"
         },
         {
             "id": 32,
@@ -407,7 +407,7 @@ const personajesCompletos = [
             "interpretado_por": "Robert Knox",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://static.wikia.nocookie.net/harrypotter/images/d/d4/Robert_knox.jpg/revision/latest?cb=20140328073139"
         },
         {
             "id":33 ,
@@ -418,7 +418,7 @@ const personajesCompletos = [
             "interpretado_por": "Afshan Azad",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://pm1.aminoapps.com/6337/6c86f953e63d02ba6a16c54081935404f4358955_00.jpg"
         },
         {
             "id":34 ,
@@ -429,7 +429,7 @@ const personajesCompletos = [
             "interpretado_por": "Shirley Henderson",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/c/cf/250px-Myrtle1.png/revision/latest?cb=20101122080924"
         },
         {
             "id": 35,
@@ -440,7 +440,7 @@ const personajesCompletos = [
             "interpretado_por": "Warwick Davis",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://static.wikia.nocookie.net/harrypotter/images/4/4b/Flitwickarmourbattle.png/revision/latest?cb=20110628141204"
         },
         {
             "id": 36,
@@ -451,7 +451,7 @@ const personajesCompletos = [
             "interpretado_por": "",
             "hijos": ["Helena Ravenclaw"],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://static.wikia.nocookie.net/harrypotter/images/f/fd/Rowena_Ravenclaw_at_WWHP.jpg/revision/latest?cb=20140615151812"
         },
         {
             "id":37 ,
@@ -462,7 +462,7 @@ const personajesCompletos = [
             "interpretado_por": "Kelly Macdonald",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/0/00/Helena_Ravenclaw_DH2.jpg/revision/latest?cb=20110928161937"
         },
         {
             "id": 38,
@@ -473,7 +473,7 @@ const personajesCompletos = [
             "interpretado_por": "Emma Thompson",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://pm1.aminoapps.com/6529/9c3210bb507c64adeca355b45cf0755fb668415c_hq.jpg"
         },
         {
             "id": 39,
@@ -484,7 +484,7 @@ const personajesCompletos = [
             "interpretado_por": "John Hurt",
             "hijos": ["hijo","hija"],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://pm1.aminoapps.com/6236/fc352f6da8fcd90ff1d52cafa00b26c9e6f75fe1_00.jpg"
         },
         {
             "id":40 ,
@@ -495,7 +495,7 @@ const personajesCompletos = [
             "interpretado_por": "Jim Broadbent",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/a/a1/Horace_Slughorn_%28HBP_promo%29_1-1.jpg/revision/latest?cb=20131218235843"
         },
         {
             "id": 41,
@@ -506,7 +506,7 @@ const personajesCompletos = [
             "interpretado_por": "Jason Isaacs",
             "hijos": ["Draco Malfoy"],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://static.wikia.nocookie.net/doblaje/images/c/cf/Lucius-malfoy.jpg/revision/latest?cb=20110930014422&path-prefix=es"
         },
         {
             "id":40 ,
@@ -517,7 +517,7 @@ const personajesCompletos = [
             "interpretado_por": "Narcisa Malfoy",
             "hijos": ["Draco Malfoy"],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://static.wikia.nocookie.net/doblaje/images/7/76/HPNarcissaMalfoy.png/revision/latest?cb=20160123185045&path-prefix=es"
         },
         {
             "id":40 ,
@@ -528,7 +528,7 @@ const personajesCompletos = [
             "interpretado_por": "Bertie Gilbert",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://pm1.aminoapps.com/6683/d8e1e4d0e57ef17990bf1f2c1fc58639b3e18399_00.jpg"
         },
         {
             "id":41 ,
@@ -539,7 +539,7 @@ const personajesCompletos = [
             "interpretado_por": "Imelda Staunton",
             "hijos": [],
             "principal": true,
-            "imagen": ""
+            "imagen": "https://static.wikia.nocookie.net/doblaje/images/e/e6/Dolores_Umbridge_-_Perfil.png/revision/latest?cb=20220304211721&path-prefix=es"
         },
         {
             "id": 42,
@@ -550,7 +550,7 @@ const personajesCompletos = [
             "interpretado_por": "Shefali Chowdhury",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/2/23/P5_Parvati_Patil.png/revision/latest?cb=20101218204710"
         },
         {
             "id": 43,
@@ -561,7 +561,7 @@ const personajesCompletos = [
             "interpretado_por": "Eddie Redmayne",
             "hijos": [],
             "secundario": true,
-            "imagen": ""
+            "imagen": "https://pm1.aminoapps.com/7930/f42352f6b2347392b778ea1da2b41605bcc0e6ecr1-485-632v2_uhq.jpg"
         }
   ];
   
